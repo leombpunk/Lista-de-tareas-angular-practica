@@ -1,0 +1,6 @@
+json-server (npm) emulador de servidor de base de datos, permite guardar, actualizar y borrar registros 
+nuestro archivo json (a modo de base de datos)
+url: https://www.npmjs.com/package/json-server
+en angular agregar al package.json -> scripts -> "server" : "json-server --watch db.json"
+y correr en la consola npm run server para iniciar, si se necesita cambiar de puerto agregar a 
+"json-server --watch db.json --port 3000" o el puerto que sea

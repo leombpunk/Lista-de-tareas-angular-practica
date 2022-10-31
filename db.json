@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Tarea de prueba",
+      "day": "dd/mm/aaaa",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
